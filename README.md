@@ -1,4 +1,5 @@
-# AI-Assistant-Clinics-Medical-Data-Qdrant-Dspy-Groq
+# AI-Assistant-Healthcare
+
 Building Private Healthcare AI Assistant for Clinics Using Qdrant Hybrid Cloud, DSPy and Groq - Llama3
 #### Install required libraries using:
 
